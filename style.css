@@ -1,0 +1,13 @@
+body{
+    background: linear-gradient(#FF0800 0%, #828282 80%);
+}
+.A{
+  border-radius: 400px;
+  width: 300px;
+  height: 300px;
+}
+
+.div{
+    padding: 50px;
+    text-align: center;
+}
